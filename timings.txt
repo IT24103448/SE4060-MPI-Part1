@@ -1,0 +1,240 @@
+PROGRAM=sum_mpi PROCESSES=1 RUN=1
+Processes: 1
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.005020 seconds
+PROGRAM=sum_mpi PROCESSES=1 RUN=2
+Processes: 1
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.005098 seconds
+PROGRAM=sum_mpi PROCESSES=1 RUN=3
+Processes: 1
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.005102 seconds
+PROGRAM=sum_mpi PROCESSES=1 RUN=4
+Processes: 1
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.005137 seconds
+PROGRAM=sum_mpi PROCESSES=1 RUN=5
+Processes: 1
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.005090 seconds
+PROGRAM=sum_mpi PROCESSES=2 RUN=1
+Processes: 2
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.002582 seconds
+PROGRAM=sum_mpi PROCESSES=2 RUN=2
+Processes: 2
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.002528 seconds
+PROGRAM=sum_mpi PROCESSES=2 RUN=3
+Processes: 2
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.002686 seconds
+PROGRAM=sum_mpi PROCESSES=2 RUN=4
+Processes: 2
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.002653 seconds
+PROGRAM=sum_mpi PROCESSES=2 RUN=5
+Processes: 2
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.003037 seconds
+PROGRAM=sum_mpi PROCESSES=4 RUN=1
+Processes: 4
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.002854 seconds
+PROGRAM=sum_mpi PROCESSES=4 RUN=2
+Processes: 4
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.004561 seconds
+PROGRAM=sum_mpi PROCESSES=4 RUN=3
+Processes: 4
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.004550 seconds
+PROGRAM=sum_mpi PROCESSES=4 RUN=4
+Processes: 4
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.004869 seconds
+PROGRAM=sum_mpi PROCESSES=4 RUN=5
+Processes: 4
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.003646 seconds
+PROGRAM=sum_mpi PROCESSES=8 RUN=1
+Processes: 8
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.002823 seconds
+PROGRAM=sum_mpi PROCESSES=8 RUN=2
+Processes: 8
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.002314 seconds
+PROGRAM=sum_mpi PROCESSES=8 RUN=3
+Processes: 8
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.002641 seconds
+PROGRAM=sum_mpi PROCESSES=8 RUN=4
+Processes: 8
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.003719 seconds
+PROGRAM=sum_mpi PROCESSES=8 RUN=5
+Processes: 8
+Total sum: 50000005000000
+Expected:  50000005000000
+Check: PASS
+Time: 0.003650 seconds
+PROGRAM=pi_mpi PROCESSES=1 RUN=1
+Processes: 1
+Total trials: 10000000
+Points inside: 7854581
+Estimated pi: 3.14183240
+Time: 0.27264583 seconds
+PROGRAM=pi_mpi PROCESSES=1 RUN=2
+Processes: 1
+Total trials: 10000000
+Points inside: 7854581
+Estimated pi: 3.14183240
+Time: 0.27477417 seconds
+PROGRAM=pi_mpi PROCESSES=1 RUN=3
+Processes: 1
+Total trials: 10000000
+Points inside: 7854581
+Estimated pi: 3.14183240
+Time: 0.27424833 seconds
+PROGRAM=pi_mpi PROCESSES=1 RUN=4
+Processes: 1
+Total trials: 10000000
+Points inside: 7854581
+Estimated pi: 3.14183240
+Time: 0.27370844 seconds
+PROGRAM=pi_mpi PROCESSES=1 RUN=5
+Processes: 1
+Total trials: 10000000
+Points inside: 7854581
+Estimated pi: 3.14183240
+Time: 0.27262788 seconds
+PROGRAM=pi_mpi PROCESSES=2 RUN=1
+Processes: 2
+Total trials: 10000000
+Points inside: 7852632
+Estimated pi: 3.14105280
+Time: 0.22992440 seconds
+PROGRAM=pi_mpi PROCESSES=2 RUN=2
+Processes: 2
+Total trials: 10000000
+Points inside: 7852632
+Estimated pi: 3.14105280
+Time: 0.23084623 seconds
+PROGRAM=pi_mpi PROCESSES=2 RUN=3
+Processes: 2
+Total trials: 10000000
+Points inside: 7852632
+Estimated pi: 3.14105280
+Time: 0.22999702 seconds
+PROGRAM=pi_mpi PROCESSES=2 RUN=4
+Processes: 2
+Total trials: 10000000
+Points inside: 7852632
+Estimated pi: 3.14105280
+Time: 0.23019962 seconds
+PROGRAM=pi_mpi PROCESSES=2 RUN=5
+Processes: 2
+Total trials: 10000000
+Points inside: 7852632
+Estimated pi: 3.14105280
+Time: 0.23011112 seconds
+PROGRAM=pi_mpi PROCESSES=4 RUN=1
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.29335114 seconds
+PROGRAM=pi_mpi PROCESSES=4 RUN=2
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.23004771 seconds
+PROGRAM=pi_mpi PROCESSES=4 RUN=3
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.28076936 seconds
+PROGRAM=pi_mpi PROCESSES=4 RUN=4
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.23277036 seconds
+PROGRAM=pi_mpi PROCESSES=4 RUN=5
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.28387774 seconds
+PROGRAM=pi_mpi PROCESSES=8 RUN=1
+Processes: 8
+Total trials: 10000000
+Points inside: 7852681
+Estimated pi: 3.14107240
+Time: 0.23351425 seconds
+PROGRAM=pi_mpi PROCESSES=8 RUN=2
+Processes: 8
+Total trials: 10000000
+Points inside: 7852681
+Estimated pi: 3.14107240
+Time: 0.22687601 seconds
+PROGRAM=pi_mpi PROCESSES=8 RUN=3
+Processes: 8
+Total trials: 10000000
+Points inside: 7852681
+Estimated pi: 3.14107240
+Time: 0.25073020 seconds
+PROGRAM=pi_mpi PROCESSES=8 RUN=4
+Processes: 8
+Total trials: 10000000
+Points inside: 7852681
+Estimated pi: 3.14107240
+Time: 0.22807171 seconds
+PROGRAM=pi_mpi PROCESSES=8 RUN=5
+Processes: 8
+Total trials: 10000000
+Points inside: 7852681
+Estimated pi: 3.14107240
+Time: 0.23065245 seconds

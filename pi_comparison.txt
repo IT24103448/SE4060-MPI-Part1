@@ -1,0 +1,90 @@
+PROGRAM=pi_mpi PROCESSES=4 RUN=1
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.23253983 seconds
+PROGRAM=pi_mpi PROCESSES=4 RUN=2
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.23127808 seconds
+PROGRAM=pi_mpi PROCESSES=4 RUN=3
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.23156633 seconds
+PROGRAM=pi_mpi PROCESSES=4 RUN=4
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.23026758 seconds
+PROGRAM=pi_mpi PROCESSES=4 RUN=5
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.23119639 seconds
+PROGRAM=pi_any_source PROCESSES=4 RUN=1
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.28354851 seconds
+PROGRAM=pi_any_source PROCESSES=4 RUN=2
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.23150359 seconds
+PROGRAM=pi_any_source PROCESSES=4 RUN=3
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.26733065 seconds
+PROGRAM=pi_any_source PROCESSES=4 RUN=4
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.23017108 seconds
+PROGRAM=pi_any_source PROCESSES=4 RUN=5
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.26124706 seconds
+PROGRAM=pi_any_source_bsend PROCESSES=4 RUN=1
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.22879795 seconds
+PROGRAM=pi_any_source_bsend PROCESSES=4 RUN=2
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.23167926 seconds
+PROGRAM=pi_any_source_bsend PROCESSES=4 RUN=3
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.29563583 seconds
+PROGRAM=pi_any_source_bsend PROCESSES=4 RUN=4
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.28069856 seconds
+PROGRAM=pi_any_source_bsend PROCESSES=4 RUN=5
+Processes: 4
+Total trials: 10000000
+Points inside: 7853444
+Estimated pi: 3.14137760
+Time: 0.27511131 seconds
