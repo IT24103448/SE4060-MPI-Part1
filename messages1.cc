@@ -7,7 +7,7 @@ int main(void)
     MPI_Status status;
     MPI_Init(NULL, NULL);
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
-    char name[30];
+    char name[MPI_MAX_PROCESSOR_NAME];
     int len;
     MPI_Get_processor_name( name, &len );
     int x, y;
